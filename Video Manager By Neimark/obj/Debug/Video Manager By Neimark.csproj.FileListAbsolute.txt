@@ -1,0 +1,24 @@
+C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\bin\Debug\Video Manager By Neimark.exe.config
+C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\obj\Debug\Video_Manager_By_Neimark.TheMainForm.resources
+C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\obj\Debug\Video_Manager_By_Neimark.Properties.Resources.resources
+C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\obj\Debug\Video Manager By Neimark.csproj.GenerateResource.Cache
+C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\bin\Debug\Video Manager By Neimark.exe
+C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\bin\Debug\Video Manager By Neimark.pdb
+C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\obj\Debug\Video Manager By Neimark.exe
+C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\obj\Debug\Video Manager By Neimark.pdb
+C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\bin\Debug\NReco.VideoConverter.dll
+C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\bin\Debug\NReco.VideoConverter.xml
+C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\bin\Debug\App_Code\Library.cs
+C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\obj\Debug\Video_Manager_By_Neimark.LoadDirectoryForm.resources
+C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\obj\Debug\Video_Manager_By_Neimark.VideoPreviewControl.resources
+C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\obj\Debug\Video_Manager_By_Neimark.SettingsFileExtensionForm.resources
+C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\obj\Debug\Video_Manager_By_Neimark.UpdateVideoInfoForm.resources
+C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\obj\Debug\Video_Manager_By_Neimark.NoInfoVideoPreviewControl.resources
+C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\obj\Debug\Video Manager By Neimark.csprojResolveAssemblyReference.cache
+C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\bin\Debug\NReco.VideoInfo.dll
+C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\bin\Debug\NReco.VideoInfo.xml
+C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\obj\Debug\Video_Manager_By_Neimark.CreateVideoInfoForm.resources
+C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\bin\Debug\Video Manager By Neimark.exe.manifest
+C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\bin\Debug\Video Manager By Neimark.application
+C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\obj\Debug\Video Manager By Neimark.exe.manifest
+C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\obj\Debug\Video Manager By Neimark.application

@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Video_Manager_By_Neimark.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LastAccessedFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\</Value>
+    </Setting>
+    <Setting Name="DefaultVideoExtensionsList" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;MP4&lt;/string&gt;
+  &lt;string&gt;MKV&lt;/string&gt;
+  &lt;string&gt;AVI&lt;/string&gt;
+  &lt;string&gt;WMV&lt;/string&gt;
+  &lt;string&gt;FLV&lt;/string&gt;
+  &lt;string&gt;MOV&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="VideoExtensionsToScan" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;MP4&lt;/string&gt;
+  &lt;string&gt;MKV&lt;/string&gt;
+  &lt;string&gt;AVI&lt;/string&gt;
+  &lt;string&gt;WMV&lt;/string&gt;
+  &lt;string&gt;FLV&lt;/string&gt;
+  &lt;string&gt;MOV&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
