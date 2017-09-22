@@ -103,9 +103,6 @@ namespace Video_Manager_By_Neimark
                 MainForm.mvDisplayAllVideos();
                 MainForm.RefreshTabsToEnable();
                 this.Close();
-
-
-
             }
             catch (Exception ee)
             {

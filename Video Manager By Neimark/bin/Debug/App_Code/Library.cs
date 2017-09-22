@@ -7,6 +7,7 @@ using System.IO;
 using System.Collections;
 using System.Windows.Forms;
 using NReco.VideoConverter;
+using NReco.VideoInfo;
 using System.Web.Script.Serialization;
 using System.Drawing;
 
@@ -167,17 +168,36 @@ namespace Video_Manager_By_Neimark
     {
         public static int GetRandomFrame(int totalsec)
             {
-                int sec = 0;
-                if (totalsec > 0)
-                {
-                    Random rand = new Random();
-                    double half = totalsec / 2;
-                    sec = (int)Math.Ceiling(half);
-                    if (totalsec > 50)
-                        sec = rand.Next(45, (int)Math.Ceiling(half));
-                }
-                return sec;
+                return new Random().Next(0, totalsec);
             }
+
+        public static string SupplyVideoInfos_ReturnErrorMessage(Video video)
+        {
+            try
+            {
+                FFProbe ffprobe = new FFProbe();
+                MediaInfo media_info = ffprobe.GetMediaInfo(video.VideoFile.FullName);
+                video.Info.DurationHour = media_info.Duration.Hours;
+                video.Info.DurationMinute = media_info.Duration.Minutes;
+                video.Info.DurationSecond = media_info.Duration.Seconds;
+                foreach (MediaInfo.StreamInfo info in media_info.Streams)
+                    if (info.Width > 0 || info.Height > 0)
+                    {
+                        video.Info.Width = info.Width;
+                        video.Info.Height = info.Height;
+                    }
+                video.Info.Resolution = video.Info.getGuessResolution();
+                int ImageFrame = myTools.GetRandomFrame(video.Info.getTotalSeconds());
+                Stream stream = new MemoryStream();
+                new FFMpegConverter().GetVideoThumbnail(video.VideoFile.FullName, stream, ImageFrame);
+                video.TemporaryImage = Image.FromStream(stream);
+            }
+            catch (Exception e)
+            {
+                return e.Message;
+            }
+            return null;
+        }
     }
 
     class ListViewItemStringComparer : IComparer

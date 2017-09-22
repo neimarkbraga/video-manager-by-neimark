@@ -22,3 +22,27 @@ C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Vi
 C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\obj\Release\Video Manager By Neimark.exe
 C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\obj\Release\Video Manager By Neimark.pdb
 C:\Users\Makoy\Documents\Visual Studio 2013\Projects\Video Manager By Neimark\Video Manager By Neimark\obj\Release\Video Manager By Neimark.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\video-manager-by-neimark\Video Manager By Neimark\bin\Release\Video Manager By Neimark.exe.config
+D:\Documents\GitHub\video-manager-by-neimark\Video Manager By Neimark\obj\Release\Video Manager By Neimark.exe
+D:\Documents\GitHub\video-manager-by-neimark\Video Manager By Neimark\obj\Release\Video Manager By Neimark.pdb
+D:\Documents\GitHub\video-manager-by-neimark\Video Manager By Neimark\bin\Release\App_Code\Library.cs
+D:\Documents\GitHub\video-manager-by-neimark\Video Manager By Neimark\bin\Release\Video Manager By Neimark.exe.manifest
+D:\Documents\GitHub\video-manager-by-neimark\Video Manager By Neimark\bin\Release\Video Manager By Neimark.application
+D:\Documents\GitHub\video-manager-by-neimark\Video Manager By Neimark\bin\Release\Video Manager By Neimark.exe
+D:\Documents\GitHub\video-manager-by-neimark\Video Manager By Neimark\bin\Release\Video Manager By Neimark.pdb
+D:\Documents\GitHub\video-manager-by-neimark\Video Manager By Neimark\bin\Release\NReco.VideoConverter.dll
+D:\Documents\GitHub\video-manager-by-neimark\Video Manager By Neimark\bin\Release\NReco.VideoInfo.dll
+D:\Documents\GitHub\video-manager-by-neimark\Video Manager By Neimark\bin\Release\NReco.VideoConverter.xml
+D:\Documents\GitHub\video-manager-by-neimark\Video Manager By Neimark\bin\Release\NReco.VideoInfo.xml
+D:\Documents\GitHub\video-manager-by-neimark\Video Manager By Neimark\obj\Release\Video Manager By Neimark.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\video-manager-by-neimark\Video Manager By Neimark\obj\Release\Video_Manager_By_Neimark.CreateVideoInfoForm.resources
+D:\Documents\GitHub\video-manager-by-neimark\Video Manager By Neimark\obj\Release\Video_Manager_By_Neimark.LoadDirectoryForm.resources
+D:\Documents\GitHub\video-manager-by-neimark\Video Manager By Neimark\obj\Release\Video_Manager_By_Neimark.SettingsFileExtensionForm.resources
+D:\Documents\GitHub\video-manager-by-neimark\Video Manager By Neimark\obj\Release\Video_Manager_By_Neimark.UpdateVideoInfoForm.resources
+D:\Documents\GitHub\video-manager-by-neimark\Video Manager By Neimark\obj\Release\Video_Manager_By_Neimark.TheMainForm.resources
+D:\Documents\GitHub\video-manager-by-neimark\Video Manager By Neimark\obj\Release\Video_Manager_By_Neimark.Properties.Resources.resources
+D:\Documents\GitHub\video-manager-by-neimark\Video Manager By Neimark\obj\Release\Video_Manager_By_Neimark.NoInfoVideoPreviewControl.resources
+D:\Documents\GitHub\video-manager-by-neimark\Video Manager By Neimark\obj\Release\Video_Manager_By_Neimark.VideoPreviewControl.resources
+D:\Documents\GitHub\video-manager-by-neimark\Video Manager By Neimark\obj\Release\Video Manager By Neimark.csproj.GenerateResource.Cache
+D:\Documents\GitHub\video-manager-by-neimark\Video Manager By Neimark\obj\Release\Video Manager By Neimark.exe.manifest
+D:\Documents\GitHub\video-manager-by-neimark\Video Manager By Neimark\obj\Release\Video Manager By Neimark.application

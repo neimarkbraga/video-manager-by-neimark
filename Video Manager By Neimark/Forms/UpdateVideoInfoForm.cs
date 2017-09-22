@@ -92,12 +92,12 @@ namespace Video_Manager_By_Neimark
                 try
                 {
                     DraftVideo.saveInfo();
-                    if (NewImageSet)
-                        SelectedImage.Save(DraftVideo.getThumbnailFullName());
+                    if (NewImageSet) SelectedImage.Save(DraftVideo.getThumbnailFullName());
                     int v_index = MainForm.VideoList.IndexOf(OriginalVideo);
                     int vr_index = MainForm.VideoList_SearchResult.IndexOf(OriginalVideo);
                     MainForm.VideoList[v_index] = DraftVideo.Clone();
                     MainForm.VideoList_SearchResult[vr_index] = MainForm.VideoList[v_index];
+                    MainForm.mvRenderVideos();
                     for (int i = 0; i < MainForm.listView_mvResult.Items.Count; i++)
                         if (MainForm.listView_mvResult.Items[i].Tag.ToString() == vr_index.ToString())
                         {
